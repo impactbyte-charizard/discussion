@@ -9,4 +9,5 @@ Discussion Board
 * Yanuar Yudhistira
 * Miftah Faris
 * Ali Kurniawan
+* Muhammad Najib K.
 
