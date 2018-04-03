@@ -8,3 +8,5 @@ Discussion Board
 * Herdanu YP
 * Yanuar Yudhistira
 * Miftah Faris
+* Ali Kurniawan
+
