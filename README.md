@@ -10,4 +10,5 @@ Discussion Board
 * Miftah Faris
 * Ali Kurniawan
 * Muhammad Najib K.
+* Dedek Julianto
 
