@@ -1,6 +1,6 @@
-# Discussion
+# Discussion for New Ideas
 
-Discussion Board
+Discussion Board Application.
 
 ## Presence Board
 
