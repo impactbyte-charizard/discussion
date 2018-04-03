@@ -1,4 +1,10 @@
-# discussion
+# Discussion
+
 Discussion Board
 
-### Miftah Faris
+## Presence Board
+
+* M Haidar Hanif
+* Herdanu YP
+* Yanuar Yudhistira
+* Miftah Faris
