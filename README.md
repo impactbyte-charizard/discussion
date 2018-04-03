@@ -1,4 +1,9 @@
-# discussion
+# Discussion
+
 Discussion Board
 
-## Yanuar Yudhistira
+## Presence Board
+
+* M Haidar Hanif
+* Herdanu YP
+* Yanuar Yudhistira
