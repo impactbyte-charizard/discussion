@@ -12,3 +12,4 @@ Discussion Board Application.
 * Muhammad Najib K.
 * Dedek Julianto
 * Hello World!!!!!! from Kien
+* Rizal Zulkarnain
